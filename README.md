@@ -10,11 +10,11 @@
 
 ## 二、复现过程
 
-本项目提供了本语料的处理过程及相关脚本，具体过程详见[复现](https://github.com/NiuTrans/Classical-Modern/tree/v2/%E5%A4%8D%E7%8E%B0)。
+本项目提供了本语料的处理过程及相关脚本，具体过程详见[复现](https://github.com/NiuTrans/Classical-Modern/tree/main/%E5%A4%8D%E7%8E%B0)。
 
 ## 三、统计信息
 
-古文原文共包含327本书籍。双语数据共包含97本书籍，其中包含句子级别对齐句子共计 972467 个句对。详细统计信息可查看[统计信息](https://github.com/NiuTrans/Classical-Modern/blob/v2/statistic.md)。
+古文原文共包含327本书籍。双语数据共包含97本书籍，其中包含句子级别对齐句子共计 972467 个句对。详细统计信息可查看[统计信息](https://github.com/NiuTrans/Classical-Modern/blob/main/statistic.md)。
 
 
 ## 四、声明
