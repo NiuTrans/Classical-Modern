@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方十一首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方十一首）</span>
 <strong>度瘴发汗青散<br/>治伤寒敕色，恶寒发热，头痛项强体疼方。</strong>
 麻黄（三两半）桔梗细辛吴茱萸防风白术（各一两）乌头干姜蜀椒桂心（各一两六铢）
 上十味治下筛，温酒服方寸匕，温覆取汗，汗出止。若不得汗，汗少不解，复服如法。

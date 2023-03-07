@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方二十八首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方二十八首）</span>
 <strong>干地黄汤<br/></strong>治产后恶露不尽，除诸疾，补不足方。
 干地黄（三两）芎桂心黄当归（各二两）人参防风茯苓细辛芍药甘草（各一两）
 上十一味咀，以水一斗，煮取三升，去滓，分三服，日再夜一。

@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（甲煎法二首，方二十首，灸法二首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（甲煎法二首，方二十首，灸法二首）</span>
 <strong>润脾膏<br/></strong><strong>治脾热唇焦枯无润方</strong>。
 生地黄汁（一升）生麦门冬（四两）生天门冬（切一升）葳蕤（四两）细辛甘草川芎白术（各二两）黄升麻（各三两）猪膏（三升）
 上十一味咀，诸药苦酒淹一宿，绵裹药，临煎下生地黄汁，与猪膏共煎取膏鸣，水气尽去滓，取细细含之。

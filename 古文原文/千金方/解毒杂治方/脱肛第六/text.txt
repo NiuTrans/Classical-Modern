@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方十三首灸法三首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方十三首灸法三首）</span>
 肛门主肺，肺热应肛门，热则闭塞，大便不通，肿缩生疮兑通方∶
 白蜜三升，煎令燥，冷水中调可得为丸，长六七寸，纳肛门中，倒向上，头向下，少时取烊，斯须即通洞泄。
 <strong>猪肝散<br/>肛门主大肠，大肠寒应肛门，寒则洞泄，肛门滞出方。</strong>

@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方五十五首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方五十五首）</span>
 <strong>治肾热背急挛痛，耳脓血出，或生肉塞之，不闻人声方。</strong>
 磁石白术牡蛎（各五两）甘草（一两）生麦门冬（六两）生地黄汁（一升）芍药（四两）葱白（一升）大枣（十五枚）
 上九味咀。以水九升，煮取三升，分三服。

@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方二十九首，灸法三十六首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方二十九首，灸法三十六首）</span>
 <strong>小续命汤<br/></strong>治猝中风欲死，身体缓急口目不正，舌强不能语，奄奄忽忽，神情闷乱。
 诸风服之皆验，不虚方令人。
 麻黄防己（崔氏《外台》不用）人参黄芩桂心白芍药甘草川芎杏仁（各一两）防风（一两半）附子（一枚）生姜（五两）

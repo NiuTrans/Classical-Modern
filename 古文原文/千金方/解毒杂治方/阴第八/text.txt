@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论二首方二十五首灸法四首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（论二首方二十五首灸法四首）</span>
 论曰∶有四种，有肠、卵胀、气、水。其肠、卵胀难瘥，气
 <strong>治丸方<br/></strong>蜘蛛（熬）桃仁（各五十枚）桂心蒺藜子地肤子泽泻防风五味子橘皮茯苓？
 上十六味，为末，蜜丸如梧子大，服十丸，稍加至三十丸。

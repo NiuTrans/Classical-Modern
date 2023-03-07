@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方十三首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方十三首）</span>
 <strong>治房劳伤中尿血方∶</strong>
 牡蛎桂心黄芩车前子（各等分）
 上四味治下筛，饮服方寸匕，稍加至二匕，日三服。

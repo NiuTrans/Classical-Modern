@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（脉四首方二十首灸法三首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（脉四首方二十首灸法三首）</span>
 <strong>肺实热<br/></strong>右手寸口气口以前脉阴实者，手太阴经也，病苦肺胀汗出若露，上气喘逆咽中塞如欲呕状，名曰肺实热也。
 <strong>治肺实热，胸凭仰息泄气除热方∶</strong>
 石膏（八两）白前杏仁（各三两）白术橘皮（各五两）枸杞根皮（切二升），赤蜜（七合）

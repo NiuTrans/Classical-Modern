@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方十六首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方十六首）</span>
 <strong>枕中方<br/></strong>常服令人大聪。
 龟甲龙骨菖蒲远志
 上四味等分治，下筛，酒服方寸匕，日三。治多忘，令人不忘方菖蒲（二分）远志（七分）茯苓茯神人参（各五分）

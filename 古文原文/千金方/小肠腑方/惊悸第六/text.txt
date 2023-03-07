@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方二十三首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方二十三首）</span>
 <strong>远志汤<br/>治心气虚惊悸善忘不进食补心方。</strong>
 远志干姜白术桂心黄紫石英（各三两）人参茯苓甘草芎茯神当归羌活防风（各二两）麦门冬半夏（各四两）五味子（二合）大枣（十二枚）
 上十八味咀，以水一斗三升煮取三升半，分五服，日三夜二。

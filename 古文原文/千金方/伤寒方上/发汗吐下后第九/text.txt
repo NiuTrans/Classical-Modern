@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（脉证七首方十七首灸法一首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（脉证七首方十七首灸法一首）</span>
 伤寒已解半日许，复心烦热，其脉浮数者，可更发汗，宜桂枝汤。凡发汗后饮水者，必喘，宜慎也。
 <strong>竹叶汤<br/>治发汗后表里虚烦不可攻者，但当与此方。</strong>
 竹叶（二把）半夏（半升）麦冬（一斤）人参甘草（各二两）生姜（四两）石膏（一斤）

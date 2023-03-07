@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方十一首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方十一首）</span>
 <strong>薤白汤<br/></strong>治产后胸中烦热逆气方。
 薤白半夏甘草人参知母（各二两）石膏（四两）栝蒌根（三两）麦门冬（半升）
 上八味，咀，以水一斗三升，煮取四升，去滓，分五服，日三夜二，热甚即加石膏、知母各一两。

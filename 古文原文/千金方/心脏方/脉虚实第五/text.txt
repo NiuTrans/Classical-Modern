@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论一首方三首针灸法二首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（论一首方三首针灸法二首）</span>
 论曰∶凡脉虚者好惊跳不定，脉实者洪满。凡脉虚实之应主于心小肠。若其腑脏有病，从热生则应脏，寒则应腑也。
 <strong>防风丸<br/>补虚调中，治脉虚惊跳不定，乍来乍去，主小肠腑寒方。</strong>
 防风桂心通草茯神远志麦门冬甘草人参白石英（各三两）

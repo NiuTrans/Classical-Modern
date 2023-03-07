@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论六首方一百二十七首灸法二首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（论六首方一百二十七首灸法二首）</span>
 <strong>治因热逐凉睡熟，有蛇入口中挽不出方∶</strong>
 以刀破蛇尾，纳生椒二三枚，裹着，须臾即出。（《肘后方》云∶艾灸蛇尾即出。若无火，以刀周匝割蛇尾，截令皮断，乃将皮倒脱即出。）
 治蛇入口中，并七孔中者∶

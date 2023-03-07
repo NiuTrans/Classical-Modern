@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（脉四条，方十一首，灸法一首</span>）
+<spanstyle= font-family:FangSong_GB2312; >（脉四条，方十一首，灸法一首</span>）
 肝实热∶
 左手关上脉阴实者，足厥阴经也，病苦心下坚满，常两胁痛，息忿忿如怒状，名曰肝实热也。
 <strong>治肝实热，阳气伏邪热，喘逆闷恐，目视物无明，狂悸非意而言，竹沥泄热汤方。</strong>

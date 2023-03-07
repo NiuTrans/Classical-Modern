@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论一首方三十二首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（论一首方三十二首）</span>
 论曰∶旧治痢于贵胜用建脾丸，多效，今治积久冷痢，先以温脾汤下讫，后以建脾丸补之，未有不效者。贫家难以克办，亦无可将息也。
 <strong>温脾汤<br/>治积久冷热赤白痢方。</strong>
 大黄桂心（各三两）附子干姜人参（各一两）

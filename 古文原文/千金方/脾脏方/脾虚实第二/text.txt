@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论一首方二十三首脉四首灸法一首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（论一首方二十三首脉四首灸法一首）</span>
 <strong>脾实热<br/></strong>右手关上脉阴实者，足太阴经者，病苦足寒胫热，腹胀满，烦扰不得卧，名曰脾实热也
 <strong>泻热汤<br/></strong><strong>治舌本强直，或梦歌乐而体重不能行方。</strong>
 前胡茯苓龙胆细辛芒硝（各三两）杏仁（四两）元参大青（各二两）苦竹叶（切?

@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方二十二首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方二十二首）</span>
 <strong>牛膝汤<br/></strong>治产儿胞衣不出、令胞烂方。
 牛膝瞿麦（各一两）当归通草（各一两半）滑石（二两，一作桂心二两）葵子（半升）
 上六味咀，以水九升，煮取三升，分三服。

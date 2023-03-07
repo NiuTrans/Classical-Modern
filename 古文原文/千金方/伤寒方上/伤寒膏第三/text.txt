@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方三首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方三首）</span>
 <strong>青膏<br/>治伤寒头痛，项强，四肢烦疼方。</strong>
 当归川芎蜀椒白芷吴茱萸附子乌头莽草（各三两）
 上八味咀，以醇苦酒渍之，再宿以猪脂四斤煎令药色黄，绞去滓，以温酒服枣核大三枚，日三服，取汗，不知稍增。可服可摩。如初得伤寒，一日苦头痛背强，宜摩之佳。

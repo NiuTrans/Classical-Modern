@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（脉四首方六首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（脉四首方六首）</span>
 <strong>膀胱实热<br/></strong>左手尺中神门以后脉阳实者，足太阳经也。病苦逆满腰中痛，不可俯仰劳也，名曰膀胱实热也。
 右手尺中神门以后脉阳实者，足太阳经也。病苦胞转不得小便，头眩痛烦满，脊背强，名曰膀胱实热也。
 <strong>治膀胱实热方∶</strong>

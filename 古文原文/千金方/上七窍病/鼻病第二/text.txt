@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论一首，方五十五首，灸法六首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（论一首，方五十五首，灸法六首）</span>
 <strong>治鼻塞，脑冷，清涕出方。</strong>
 通草辛夷（各半两）细辛甘遂（一作甘草）桂心川芎附子（各一两）
 上七味末之，蜜丸，绵裹纳鼻中，密封塞，勿令气泄，丸如大麻子，稍加微觉小痛，捣姜为丸即愈，用白狗胆汁和之，更佳。

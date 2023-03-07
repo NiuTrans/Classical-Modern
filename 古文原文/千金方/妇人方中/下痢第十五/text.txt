@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方十九首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方十九首）</span>
 <strong>胶蜡汤<br/></strong>治产后三日内下诸杂五色痢方。
 阿胶黄柏（各一两）蜡（如博棋三枚）当归（一两半）黄连（二两）陈廪米（一升）
 上六味咀，以水八升煮米，蟹目沸，去米，纳药，煮取二升，去滓，纳胶蜡，令烊，分四服，一日令尽。

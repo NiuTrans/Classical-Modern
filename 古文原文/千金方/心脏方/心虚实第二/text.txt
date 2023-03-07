@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（脉四条方十一首灸法一首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（脉四条方十一首灸法一首）</span>
 <strong>心实热<br/></strong>左手寸口人迎以前脉阴实者，手少阴经也，病苦闭大便不利，腹满，四肢重，身热，名曰心实热也。
 <strong>石膏汤<br/></strong>治心热实或欲吐，吐而不出，烦闷，喘急，头痛方。
 石膏（一斤）淡竹叶香豉（各一升）小麦（三升）地骨皮（五两）茯苓（三两）栀子仁（三十枚）

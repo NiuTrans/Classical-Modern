@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方二十六首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方二十六首）</span>
 <strong>蜀椒汤<br/></strong>治产后心痛，此大寒冷所为方。
 蜀椒（二合）芍药（一两）当归半夏甘草桂心人参茯苓（各二两）蜜（一升）
 上十味咀，以水九升，煮椒令沸，然后纳诸药，煮取二升半，去滓，纳姜汁及蜜煎取三升，一服五合，渐加至六合，禁勿冷食。

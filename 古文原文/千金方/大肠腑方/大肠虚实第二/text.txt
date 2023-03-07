@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（脉二条方二首灸法七首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（脉二条方二首灸法七首）</span>
 <strong>大肠实热<br/></strong>右手寸口气口以前脉阳实者，手阳明经也。病苦肠满善喘咳，面赤身热，喉咽中如核状，名曰大肠实热也。
 <strong>生姜泄肠汤<br/></strong>治大肠实热，腹胀不通。口为生疮者方。
 生姜橘皮青竹茹白术黄芩栀子仁（各三两）桂心（一两）茯苓芒硝（各二两）地黄（十两）大枣（十四枚）

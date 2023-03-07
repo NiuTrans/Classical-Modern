@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论一首方六首针灸法一首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（论一首方六首针灸法一首）</span>
 论曰∶骨虚者，酸疼不安好倦。骨实者，苦烦热。凡骨虚实之应，主于肾膀胱。若其腑脏病，从骨生。热则应脏，寒则应腑。
 <strong>治骨实苦酸痛烦热方∶</strong>
 葛根汁生地汁赤蜜（各一升）麦冬汁（五合）

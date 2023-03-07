@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方九首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方九首）</span>
 <strong>栝蒌汤<br/></strong>治产后小便数兼渴方。
 栝蒌根麦门冬甘草黄连（各二两）人参生姜（各三两）大枣（十五枚）桑螵蛸（二十枚）
 上八味咀，以水七升煮取二升半，分三服。

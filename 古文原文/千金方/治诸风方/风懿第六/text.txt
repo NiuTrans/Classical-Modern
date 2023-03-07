@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论三首方二十三首针灸法六首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（论三首方二十三首针灸法六首）</span>
 <strong>独活汤<br/>治风懿不能言，四肢不收、手足曳方。</strong>
 独活（四两）桂心芍药栝蒌根生葛（各二两）生姜（六两）甘草（三两）
 上七味咀，以水五升，煮取三升，分三服，日三。

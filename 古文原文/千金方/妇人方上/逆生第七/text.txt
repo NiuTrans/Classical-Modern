@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论一首方十四首</span>）
+<spanstyle= font-family:FangSong_GB2312; >（论一首方十四首</span>）
 论曰∶凡产难，或儿横生、侧生，或手足先出，可以针锥刺儿手足，入一二分许，儿得痛惊转即缩，自当回顺也。
 <strong>治逆生方∶</strong>
 以盐涂儿足底，又可急爪抓之，并以盐摩产妇腹上即愈。

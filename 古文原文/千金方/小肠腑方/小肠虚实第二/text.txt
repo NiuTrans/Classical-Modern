@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（脉二首方三首灸法二首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（脉二首方三首灸法二首）</span>
 <strong>小肠实热##<br/></strong>左手寸口人迎以前脉阳实者，手太阳经也，病苦身热，来去汗不出。心中烦满，身重，口中生疮，名曰小肠实热也。
 <strong>柴胡泽泻汤<br/>治小肠热胀口疮方。</strong>
 柴胡泽泻橘皮（一作桔梗）黄芩枳实旋复花升麻芒硝（各二两）生地黄（切，一升）

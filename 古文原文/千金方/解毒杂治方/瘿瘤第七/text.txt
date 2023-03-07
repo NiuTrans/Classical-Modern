@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方十三首证一条灸法十首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方十三首证一条灸法十首）</span>
 <strong>治石瘿、气瘿、劳瘿、土瘿、忧瘿等方∶</strong>
 海藻海蛤龙胆通草昆布石（一作矾石）松萝（各三分）麦曲（四分）半夏（二？
 上九味，治下筛，酒服方寸匕，日三。禁食猪、鱼、五辛、生菜，诸难消之物。十日知，二十日愈。

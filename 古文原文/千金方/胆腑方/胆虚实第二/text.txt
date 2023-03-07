@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（脉二首方九首灸法二首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（脉二首方九首灸法二首）</span>
 <strong>胆实热<br/></strong>左手关上脉阳实者，足少阳经也。病苦腹中气满，饮食不下，咽干头痛，洒洒恶寒，胁痛，名曰胆实热也。
 <strong>半夏汤<br/></strong><strong>治胆腑实热精神不守泻热方。</strong>
 半夏宿姜（各三两）黄芩（一两）生地黄（五两）远志茯苓（各二两）秫米（一升）酸枣仁（五合）

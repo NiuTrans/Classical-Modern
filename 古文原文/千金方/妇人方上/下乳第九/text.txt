@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方二十一首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方二十一首）</span>
 <strong>钟乳汤<br/></strong>治妇人乳无汁方。
 石钟乳硝石（一用滑石）白石脂（各六铢）通草（十二铢）桔梗（半两、切）
 上五味咀，以水五升煮三沸，三上三下，去滓，纳硝石，令烊，分服。

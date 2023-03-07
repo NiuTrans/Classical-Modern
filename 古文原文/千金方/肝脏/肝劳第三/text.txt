@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论一首，方二首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（论一首，方二首）</span>
 论曰∶肝劳病者，补心气以益之，心旺则感于肝矣。人逆春气则足少阳不生，而肝气纳变，顺之则生，逆之则死，顺之则治，逆之则乱，反顺为逆，是谓关格，病则生矣。
 <strong>猪膏酒方<br/></strong>治肝劳虚寒，关格劳涩，闭塞不通，毛悴色夭。
 猪膏姜汁（各四升）

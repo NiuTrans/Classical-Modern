@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（证一条，方五十首，针灸法二首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（证一条，方五十首，针灸法二首）</span>
 凡卒喉痹不得语，服小续命汤，加杏仁一两。（方出第八卷中）
 <strong>乌膏<br/></strong><strong>喉咙者，脾胃之候，若脏热，喉则肿塞，神气不通，乌膏主之方。</strong>
 生乌（十两）升麻（三两）羚羊角（二两）蔷薇根（切一升）艾叶（六铢生者尤佳）芍药（二两）通草（二两）生地黄（切五合）猪脂（二斤）

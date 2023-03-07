@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（方一百十一首灸法十三首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（方一百十一首灸法十三首）</span>
 <strong>治小儿脐中生疮方∶</strong>
 桑汁敷乳上，使儿饮之。
 <strong>又方</strong>饮羊乳及血。

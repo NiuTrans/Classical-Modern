@@ -1,4 +1,4 @@
-<spanstyle="font-family:FangSong_GB2312;">（论一首方二首）</span>
+<spanstyle= font-family:FangSong_GB2312; >（论一首方二首）</span>
 论曰∶凡脾劳病者，补肺气以益之，肺旺则感于脾。是以圣人春夏养阳气，秋冬养阴气，
 <strong>半夏汤<br/>治脾劳实四肢不用，五脏乖反胀满，肩息气急不安，承气泄实热方。</strong>
 半夏宿姜（各八两）茯苓白术杏仁（各三两）橘皮芍药（各四两）竹叶（切，一升）
