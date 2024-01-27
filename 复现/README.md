@@ -6,7 +6,7 @@
 
 ```sh
 git clone https://github.com/NiuTrans/Classical-Modern.git
-cd Classical-Modern-Corpus/复现
+cd Classical-Modern/复现
 pip install -r requirements.txt  
 ```
 
