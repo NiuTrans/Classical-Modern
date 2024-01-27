@@ -5,7 +5,7 @@
 ## 环境需求
 
 ```sh
-git clone https://github.com/xiu-ze/Classical-Modern-Corpus.git
+git clone https://github.com/NiuTrans/Classical-Modern.git
 cd Classical-Modern-Corpus/复现
 pip install -r requirements.txt  
 ```
